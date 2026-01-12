@@ -120,7 +120,7 @@ createHoverEffect(GetKeyButton, Color3.fromRGB(80, 140, 220), Color3.fromRGB(60,
 createHoverEffect(CheckKeyButton, Color3.fromRGB(80, 220, 140), Color3.fromRGB(60, 200, 120))
 
 GetKeyButton.MouseButton1Click:Connect(function()
-    local keyLink = "https://ads.luarmor.net/get_key?for=Dueling_Grounds_Script_KEY-gGXpmaFmySwD"
+    local keyLink = "https://ads.luarmor.net/v/cb/FxBkHWitPrLd/oyyrhFNswgwdePVk"
     
     setclipboard(keyLink)
     
@@ -180,4 +180,5 @@ CheckKeyButton.MouseButton1Click:Connect(function()
         end)
     end)
 end)
+
 -- for those who made it this far, yes i couldnt bother the ui is made by AI boohoo..
